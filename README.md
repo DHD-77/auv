@@ -132,7 +132,9 @@ cX is x coordinates by area, similar for y also
 Then to know that its working we create a circle on the object
 cv2.circle(frame, (cx,cy),20,(0,255,0),-1)
 
+Then based on the values of x and y, I put the corresponding filter.
 
-
-
+# I know that you told to commit every day, I did, I added everything daily to my README
+# (Whatever I learnt each day), but while pushing the files I accidently deleted my
+# README. 
 
